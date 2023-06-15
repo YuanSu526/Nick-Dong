@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Nick Dong</title>
+    <link>/posts/</link>
+    <description>Recent content in Posts on Nick Dong</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 15 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Gluten</title>
+      <link>/2023/06/gluten/</link>
+      <pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/2023/06/gluten/</guid>
+      <description>The idea is to use gluten as a building material for the desert. Dried gluten can defend against the wind, also used as an emergency food source for travellers.</description>
+    </item>
+    
+    <item>
+      <title>Hugging Chair</title>
+      <link>/2023/06/hugging-chair/</link>
+      <pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/2023/06/hugging-chair/</guid>
+      <description>The shape of people&amp;rsquo;s bodies when hugging inspires the idea of a hugging chair. When couples in long-distance relationships sit on the hugging chair, they can feel their partner is by their side. As you can see, the chair would not allow physical hugging.</description>
+    </item>
+    
+    <item>
+      <title>Roller Coaster</title>
+      <link>/2023/06/roller-coaster/</link>
+      <pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/2023/06/roller-coaster/</guid>
+      <description>This project was enlighted by the League of Legends map</description>
+    </item>
+    
+    <item>
+      <title>Water cycle</title>
+      <link>/2023/06/water-cycle/</link>
+      <pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/2023/06/water-cycle/</guid>
+      <description>The experiment&amp;rsquo;s goal was to simulate the water cycle&amp;rsquo;s most basic operation, which is: Evaporation - Condensation - Water Vapour Transportation - Precipitation The round flask stands in for the earth, the candle for temperature, the middle for the atmosphere where water vapor is transported, and the top opening as clouds that would result in having precipitation.
+If you are interested in the animation process, please visit: Animation Process</description>
+    </item>
+    
+    <item>
+      <title>Fan Building</title>
+      <link>/2023/06/fan-building/</link>
+      <pubDate>Tue, 13 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/2023/06/fan-building/</guid>
+      <description>The purpose of the &amp;ldquo;fan&amp;rdquo; structure is to provide a large opening in order to achieve the concept of a single entrance to multiple designations.</description>
+    </item>
+    
+    <item>
+      <title>Image gallery showcase</title>
+      <link>/2023/06/image-gallery-showcase/</link>
+      <pubDate>Tue, 13 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/2023/06/image-gallery-showcase/</guid>
+      <description>Here are my past art works</description>
+    </item>
+    
+  </channel>
+</rss>

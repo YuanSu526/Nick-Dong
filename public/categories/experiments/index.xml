@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>experiments on Nick Dong</title>
+    <link>/categories/experiments/</link>
+    <description>Recent content in experiments on Nick Dong</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 15 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="/categories/experiments/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Water cycle</title>
+      <link>/2023/06/water-cycle/</link>
+      <pubDate>Thu, 15 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/2023/06/water-cycle/</guid>
+      <description>The experiment&amp;rsquo;s goal was to simulate the water cycle&amp;rsquo;s most basic operation, which is: Evaporation - Condensation - Water Vapour Transportation - Precipitation The round flask stands in for the earth, the candle for temperature, the middle for the atmosphere where water vapor is transported, and the top opening as clouds that would result in having precipitation.
+If you are interested in the animation process, please visit: Animation Process</description>
+    </item>
+    
+  </channel>
+</rss>
