@@ -1,5 +1,5 @@
 ---
-title: "Water cycle"
+title: "Water Cycle"
 date: 2023-06-15
 thumbnailImagePosition: left
 thumbnailImage: images/Water-cycle-4.png
